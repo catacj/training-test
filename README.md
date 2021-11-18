@@ -4,8 +4,8 @@
 
 now testing in the RStudio 
 
-'''{r} 
+```{r} 
 x<-2+2
 x+1
-
+y = mx + b
 ```
